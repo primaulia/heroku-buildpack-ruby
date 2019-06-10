@@ -13,7 +13,7 @@ class LanguagePack::Helpers::Nodebin
     version = "1.16.0"
     {
       "number" => version,
-      "url"    => "https://bashing.oss-cn-hangzhou.aliyuncs.com/yarn-v#{version}.tar.gz"
+      "url"    => "https://urboss.oss-cn-qingdao.aliyuncs.com/yarn-v#{version}.tar.gz"
     }
   end
 
