@@ -5,7 +5,7 @@ class LanguagePack::Helpers::Nodebin
     version = "10.15.3"
     {
       "number" => version,
-      "url"    => "https://bashing.oss-cn-hangzhou.aliyuncs.com/node-v#{version}-linux-x64.tar.gz"
+      "url"    => "https://urboss.oss-cn-qingdao.aliyuncs.com/node-v#{version}-linux-x64.tar.gz"
     }
   end
 
